@@ -17,7 +17,7 @@ namespace ConsoleApplication8
                 for (int d = 0 + s; d < n + s;d++)
                 {
                     
-                    Console.Write(d);
+                    Console.Write(d + 1);
                 }
                 Console.WriteLine();
                 s++;
