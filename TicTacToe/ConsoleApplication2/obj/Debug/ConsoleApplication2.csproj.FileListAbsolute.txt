@@ -1,0 +1,9 @@
+C:\Users\win7\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\win7\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\win7\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\win7\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\win7\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\win7\Desktop\C#1\TicTacToe\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\win7\Desktop\C#1\TicTacToe\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\win7\Desktop\C#1\TicTacToe\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
